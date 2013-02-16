@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  ExploreViewController.h
 //  Tabbed
 //
 //  Created by Sonia Mane on 16/02/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
+@interface ExploreViewController : UIViewController
 
 @end
